@@ -19,3 +19,5 @@ if __name__ == '__main__':
     else:
         usage = "calc.py [add|multiply] NUM1 [NUM2 [NUM3 [...]]]"
         print(usage)
+
+#Add minimum command
