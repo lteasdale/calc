@@ -21,3 +21,4 @@ if __name__ == '__main__':
         print(usage)
 
 #Add minimum command
+#Add max command
